@@ -1,0 +1,33 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Logs
+*.log
+
+# Asset meta files are needed in Unity
+# Keep Assets/ and ProjectSettings/
+
+# Large files handled by LFS (see optional step)
